@@ -1,0 +1,52 @@
+/* Bước 3: Định dạng thẻ body (Font chữ và kích thước chữ) */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: #202020; /* Chữ màu xám đậm giúp dễ đọc */
+}
+
+/* Bước 4: Định dạng thẻ header (Màu nền) */
+header {
+    background-color: #1a365d; /* Màu xanh dương đậm */
+    padding: 20px;
+}
+
+/* Bước 5: Định dạng thẻ nav (Màu nền) */
+nav {
+    background-color: #2b6cb0; /* Màu xanh dương vừa */
+    padding: 10px;
+}
+
+/* Bước 6: Định dạng thẻ main (Màu nền và kích thước chữ) */
+main {
+    background-color: #f7fafc; /* Màu trắng xám dịu mắt */
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Bước 7: Định dạng thẻ footer (Màu nền) */
+footer {
+    background-color: #2d3748; /* Màu xám đen */
+    color: #ffffff; /* Chữ màu trắng để tương phản tốt với nền tối */
+    padding: 15px;
+}
+
+/* Bước 8: Định dạng thẻ li (Cách hiển thị và chiều rộng) */
+li {
+    display: inline-block; 
+    width: 120px;
+}
+
+/* Bước 9: Định dạng thẻ h1 (Căn lề chữ, font chữ và màu chữ) */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #ffffff; /* Chữ màu trắng để nổi bật trên nền header xanh đậm */
+}
+
+/* Bước 10: Định dạng thẻ p (Khoảng cách dòng / Chiều cao dòng) */
+p {
+    line-height: 1.6;
+}
